@@ -32,7 +32,7 @@
     </div>
     <div class="social-icons" style="text-align: center; margin-top: 40px;">
       <h3>Connect with Me</h3>
-      <a href="https://www.linkedin.com/in/yusuf-abubeker-a63947271" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
+      <a href="https://www.linkedin.com/in/yusufabubeker" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
     </div>
   </div>
 
